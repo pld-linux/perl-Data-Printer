@@ -4,7 +4,6 @@
 #
 %define		pdir	Data
 %define		pnam	Printer
-%include	/usr/lib/rpm/macros.perl
 Summary:	Data::Printer - colored pretty-print of Perl data structures and objects
 #Summary(pl.UTF-8):	
 Name:		perl-Data-Printer
